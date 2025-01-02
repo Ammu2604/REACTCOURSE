@@ -17,4 +17,4 @@
 -diagonostic
 -error handling
 -HTTPs
--Tree shaking-remove unused code
+-Tree shaking-remove unused codes
